@@ -6,8 +6,6 @@ from datetime import datetime, timedelta
 import plotly.express as px
 import plotly.graph_objects as go
 from streamlit_plotly_events import plotly_events
-import plotly.graph_objects as go
-import plotly.express as px
 
 # CONFIG
 st.set_page_config(layout="wide")
